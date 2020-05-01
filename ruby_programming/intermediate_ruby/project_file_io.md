@@ -94,6 +94,7 @@ Send us your solution so we can show others! Submit a link to the Github [repo](
 * [Jonathan Yiv's Solution](https://github.com/JonathanYiv/hangman)
 * [Bn8's Solution](https://github.com/Bn8/ruby_odin/tree/master/Hangman)
 * [Dallaire's Solution](https://github.com/Dallaire/hangman.git)
+* [BeyondInfinity's solution](https://github.com/BeyondInfinities/Hangman_in_ruby)
 * [justinckim3's Solutions](https://github.com/justinckim3/hangman)
 * [Kasey Z.'s Solution](https://github.com/kasey-z/TOP-Solutions/tree/master/file_io_and_serialization/hangman)
 * [SadieD's Solution](https://github.com/SadieD/FileIO/tree/master/hangman)
